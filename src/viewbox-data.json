@@ -570,5 +570,9 @@
   "skydio_x2": {
     "radius": 0.3,
     "elevation": 0.05
+  },
+  "wuji_hand": {
+    "radius": 0.106,
+    "elevation": 0.097
   }
 }
